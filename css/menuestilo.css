@@ -1,0 +1,19 @@
+/* 
+    Created on : 14-ago-2019, 22:32:01
+    Author     : AruMou
+*/
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: montserrat;
+  box-sizing: border-box;
+}
+
+body{
+  min-height: 100vh;
+  background-image: linear-gradient(120deg,#3498db,#8e44ad);
+}
+h1, h2{
+    text-align:center;
+}
